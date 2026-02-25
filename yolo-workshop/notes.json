@@ -1,0 +1,21 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "With mask"
+    },
+    {
+      "id": 1,
+      "name": "Without mask"
+    },
+    {
+      "id": 2,
+      "name": "Mask worn incorrectly"
+    }
+  ],
+  "info": {
+    "year": 2020,
+    "version": "1.0",
+    "author": "andrewmvd"
+  }
+}
